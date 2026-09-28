@@ -1,0 +1,6 @@
+{
+  "name": "AI Debate Arena",
+  "description": "Interactive AI-powered debate platform where users choose a topic, pick a side, and challenge their reasoning against an AI opponent with deep logical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
